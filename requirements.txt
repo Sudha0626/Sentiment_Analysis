@@ -1,0 +1,4 @@
+Transformers
+Gradio
+Dash
+Torch
